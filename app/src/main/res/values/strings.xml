@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Codeprobe Image Locker</string>
+    <string name="image_locker_activity_welcome_text">
+        Welcome to Image Locker, A safe place for you photos
+    </string>
+    <string name="image_locker_activity_description_text">
+        This will keep your images safe by encrypting them and
+        storing them into small packages i.e. \'Blocks\' which
+        are logically connected to simulate a \'Blockchain\'.
+        <b>Warning : </b> Images must not exceed ~50MB
+        <i>(in Bitmap format)</i>.
+    </string>
+    <string name="key_change_message">
+        Default key password is <b>\"pee pee poo pooo\"</b>.
+        New Password should be 16, 24 or 32 characters
+
+    </string>
+</resources>
