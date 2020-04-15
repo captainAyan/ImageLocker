@@ -152,7 +152,7 @@ public class BlockChain {
 
             float bitmapRatio = (float)width / (float) height;
             if (bitmapRatio > 1) {
-                width = 500;
+                width = THUMBNAIL_SIZE;
                 height = (int) (width / bitmapRatio);
             } else {
                 height = THUMBNAIL_SIZE;

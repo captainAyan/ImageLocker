@@ -10,8 +10,8 @@ Image Locker is an Android App which helps you save your images safely in your p
 - [x] View full image activity
 - [x] Image saver 
 - [x] Fix ImageLockerActivity result activity progress dialog error
-- [ ] Password on image recyclerview activity
-- [ ] Password change in "Change key" activity
-- [ ] Save and load .ilblk file in and from different locations
-- [ ] About page activity
-- [ ] Fix TODOs in android studio
+- [x] Password on image recyclerview activity
+- [x] Password change in "Change key" activity
+- [x] Save and load .ilblk file in and from different locations
+- [x] About page activity
+- [x] Fix TODOs in android studio
